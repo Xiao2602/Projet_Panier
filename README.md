@@ -80,7 +80,7 @@ Elle permet de retourner True si le panier ne contient rien et false dans le cas
 - ajouter_produit(self, produit: Produit)
 Elle permet d’ajouter un objet Produit à la liste des produits.
 
--supprimer_produit(self, id_produit: str)
+- supprimer_produit(self, id_produit: str)
 Elle permet de supprimer un produit par id_produit de la liste.
 
 - vider_panier(self)
